@@ -1,6 +1,6 @@
 # Hi, I'm M Kaviya 👋
 
-A B.Tech Computer Engineering (AI & ML) student at Jain (Deemed-to-be) University.
+ B.Tech Computer Engineering (AI & ML) student at Jain (Deemed-to-be) University.
 
 ---
 
