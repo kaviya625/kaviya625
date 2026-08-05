@@ -10,34 +10,20 @@ An enthusiastic and detail-oriented Computer Engineering student with a strong f
 
 ---
 
-## 💻 My Toolkit
+## **💻 My Toolkit**
 
-**Programming Languages**
-- Java
-- SQL
-- JavaScript (Basics)
-- HTML
-- CSS
+**Programming Languages:** Java, Python, JavaScript
 
-**Frameworks & Technologies**
-- Spring Boot
-- REST APIs
-- MySQL
-- Node.js (Basics)
+**Full-Stack Development:** React.js, FastAPI, HTML, CSS, REST APIs, Responsive Web Design, API Integration
 
-**Core Concepts**
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- Database Management Systems
-- Operating Systems
+**Database:** MySQL, SQL, Joins, CRUD Operations, Relational Database Fundamentals
 
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Linux
+**Core CS:** DSA (Data Structures & Algorithms), OOP, Operating Systems, DBMS, Computer Networks, Software Engineering, SDLC
 
----
+**Machine Learning & Data:** PyTorch, Scikit-learn, Pandas, Model Development, Data Processing
+
+**Tools & Practices:** Git, GitHub, VS Code, Debugging, Testing, Input Validation, Error Handling, Agile/Scrum Fundamentals
+
 
 ## 🚀 Featured Projects
 
