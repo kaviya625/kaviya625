@@ -84,6 +84,6 @@ Bachelor of Technology in Computer Engineering (Artificial Intelligence & Machin
 ## 📫 Connect With Me
 
 - 📧 Email: **kaviyampt@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/kaviya-m-7b092a261**
+- 💼 LinkedIn: https://www.linkedin.com/in/kaviya-m-47b09a2a9
 - 💻 GitHub: **https://github.com/kaviya625**
 
